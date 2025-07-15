@@ -5,8 +5,7 @@ These projects are perfect for practicing and improving your core JavaScript ski
 
 ## 📂 Projects Included
 
-- Interactive UI components  
-- Fun games and logic-based apps  
+- Interactive UI components   
 - Useful everyday mini-tools  
 - Beginner-friendly and easy to understand
 
